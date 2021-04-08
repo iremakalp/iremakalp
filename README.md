@@ -4,7 +4,7 @@
 
 ## Social Media
 
-_Linkedin_ <a href="https://www.linkedin.com/in/iremakalp-1912074162"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" witdh="40" height="40"/></a> _Twitter_ <a href="https://twitter.com/sadiremy"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v3.png" witdh="40" height="40"/></a> 
+<a href="https://www.linkedin.com/in/iremakalp-1912074162"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" witdh="40" height="40"/></a>  <a href="https://twitter.com/sadiremy"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v3.png" witdh="40" height="40"/></a> 
 
 
 
