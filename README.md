@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true">
 
-# Merhaba, ben İrem ! <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="55" height="55" > <img src="https://github.com/iremakalp/iremakalp/blob/main/coding.png" width="45" height="45" >
-Bilişim Sistemleri Mühendisliği 3.sınıf öğrencisi
+# Merhaba, ben İrem ! <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="55" height="55" >
+Bilişim Sistemleri Mühendisliği 3.sınıf
 
 ## Social Media
 
