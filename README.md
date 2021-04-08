@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true&theme=dracula">
 
 # Merhaba, ben İrem ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremakalp" alt="irem" /> </p>
