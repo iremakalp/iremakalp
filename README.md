@@ -1,7 +1,6 @@
 
 
-# Merhaba, ben İrem ! 
-<img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png">
+# Merhaba, ben İrem ! <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true&theme=dracula">
 
