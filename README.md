@@ -6,6 +6,6 @@
 
 <a href="https://www.linkedin.com/in/iremakalp-1912074162"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" witdh="40" height="40"/></a><a href="https://twitter.com/sadiremy"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v3.png" witdh="40" height="40"/></a> 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremakalp&layout=compact)](https://github.com/iremakalp/github-readme-stats)
