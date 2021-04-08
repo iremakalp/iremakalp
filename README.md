@@ -2,6 +2,9 @@
 
 # Merhaba, ben İrem ! <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="55" height="55" > <img src="https://github.com/iremakalp/iremakalp/blob/main/coding.png" width="45" height="45" >
 
+## About
+Bilişim Sistemleri Mühendisliği 3.sınıf öğrencisiyim.Full stack developer olma yolunda kendimi geliştiriyorum. 
+
 ## Social Media
 
 <a href="https://www.linkedin.com/in/iremakalp-1912074162"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" witdh="40" height="40"/></a>  <a href="https://twitter.com/sadiremy"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v3.png" witdh="40" height="40"/></a> 
