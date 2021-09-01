@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true">
 
-# _Hi, This is İrem's Account!_ <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="55" height="55" >
+# _Hi, This is İrem's Account!_ <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40">
 KOU Bilişim Sistemleri Mühendisliği 4.Sınıf
  
 <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>
