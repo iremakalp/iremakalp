@@ -8,5 +8,4 @@ KOU Bilişim Sistemleri Mühendisliği 4.Sınıf
 ## **_Languages and Tools_**  
 <code><img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="30"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" width="30"/></code>
-<code><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" width="35"/></code>
-<code><img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" width="35"/></code>      
+<code><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" width="35"/></code>   
