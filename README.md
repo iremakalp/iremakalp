@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iremakalp&show_icons=true" width="400">
 
 # _Hi, This is İrem's Account!_ <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40">
-KOU Bilişim Sistemleri Mühendisliği 4.Sınıf
+###### _KOU Bilişim Sistemleri Mühendisliği 4.Sınıf_
 
 
 ## **_Languages and Tools_**  
