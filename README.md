@@ -2,8 +2,7 @@
 
 # _Hi, This is İrem's Account!_ <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40">
 KOU Bilişim Sistemleri Mühendisliği 4.Sınıf
- 
-<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>
+
 
 ## **_Languages and Tools_**  
 <code><img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="30"/></code>
