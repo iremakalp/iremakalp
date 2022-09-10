@@ -1,18 +1,16 @@
 
-<h1 align="center">Hi 👋 This is İrem's Account!   <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40"></h1>
+<h1 align="center">Hi 👋 This is Irem's Account!   <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40"></h1>
 <h3 align="center">Backend Developer (.Net) </h3>
 
-- 👨‍💻 Bachelor of KOU Information Systems Engineering
+- 👨‍💻 ***Bachelor of KOU Information Systems Engineering***
 
 - 🌱 I’m currently learning **Java and Javascript. Also trying to learn Flutter.**
 
 - 💬 Ask me about: **.Net Core,C#,MsSql,Python**
 
-- 📫 How to reach me:  **iremklp@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iremakalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iremakalp/" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iremakalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
