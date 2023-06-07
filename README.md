@@ -5,7 +5,7 @@
 
 - 👨‍💻 ***Bachelor of KOU Information Systems Engineering***
 
-- 🌱 I’m currently learning **Java and Javascript. Also trying to learn Flutter.**
+- 🌱 I’m currently learning **Kubernetes and Openshift.**
 
 - 💬 Ask me about: **.Net Core,C#,MsSql,Python**
 
