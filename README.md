@@ -5,9 +5,7 @@
 
 - 👨‍💻 ***Bachelor of KOU Information Systems Engineering***
 
-- 🌱 I’m currently learning **Kubernetes and Openshift.**
-
-- 💬 Ask me about: **.Net Core,C#,MsSql,Python**
+- 💬 Ask me about: **.Net Core, C#, MsSql, Python, Kubernetes, Docker, Openshift**
 
 <h3 align="left">Connect with me:
 <a href="https://www.linkedin.com/in/iremakalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="20" /></a>
