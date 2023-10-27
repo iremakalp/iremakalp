@@ -1,6 +1,6 @@
 <body style="color=blue">
 
-<h1 align="center">Hi 👋 This is Irem's Account!   <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40"></h1>
+<h1 align="center">Hi 👋 This is Irem's Github !   <img src="https://github.com/iremakalp/iremakalp/blob/main/counseling.png" width="40"></h1>
 <h3 align="center">Backend Developer (.Net) </h3>
 
 - 👨‍💻 ***Bachelor of KOU Information Systems Engineering***
